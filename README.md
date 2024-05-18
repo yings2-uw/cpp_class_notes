@@ -6,3 +6,7 @@ https://learn.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-
 default comparisons
 https://en.cppreference.com/w/cpp/language/default_comparisons
 
+explicit constructor
+https://www.geeksforgeeks.org/use-of-explicit-keyword-in-cpp/
+
+
